@@ -1,0 +1,11 @@
+{
+    "hf_token": "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",
+    "model_name": "meta-llama/Meta-Llama-3-8B",
+    "max_length": 400,
+    "torch_dtype": "float16",
+    "device_map": "cuda:0",
+    "attn_implementation": "flash_attention_2",
+    "load_in_8bit": false,
+    "prompt": "How is the weather today?",
+    "use_cache": true
+}
