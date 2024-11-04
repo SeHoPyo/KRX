@@ -1,5 +1,5 @@
 {
-    "hf_token": "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",
+    "hf_token": "",
     "model_name": "meta-llama/Meta-Llama-3-8B",
     "max_length": 400,
     "torch_dtype": "float16",
